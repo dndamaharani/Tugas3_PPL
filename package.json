@@ -1,0 +1,14 @@
+{
+  "name": "tugas3-film-favorit",
+  "version": "1.0.0",
+  "description": "API sederhana untuk mengelola film favorit",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Nama Kamu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

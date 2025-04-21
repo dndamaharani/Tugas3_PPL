@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "year": 2010
+    },
+    {
+      "id": 2,
+      "title": "Parasite",
+      "director": "Bong Joon-ho",
+      "year": 2019
+    },
+    {
+      "id": 3,
+      "title": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "year": 1994
+    },
+    {
+      "id": 4,
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "year": 2001
+    },
+    {
+      "id": 5,
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "year": 2008
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "year": 1994
+    },
+    {
+      "id": 7,
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "year": 1994
+    },
+    {
+      "id": 8,
+      "title": "Your Name",
+      "director": "Makoto Shinkai",
+      "year": 2016
+    }
+  ]
+  
